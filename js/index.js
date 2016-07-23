@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-$("#g").on("click", function() {
+$("#g").click(function() {
   $("#general").slideToggle();
 });
 
