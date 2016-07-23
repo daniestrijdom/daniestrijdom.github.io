@@ -45,7 +45,7 @@ li {
 }
 
 #general, #work, #education, #skillset,#contact {
-  display: block;
+  display: none;
 }
 
 #social-links {
