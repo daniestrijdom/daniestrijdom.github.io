@@ -23,7 +23,7 @@ li {
 }
 
 #footer {
-  position: absolute;
+  position: fixed;
   width: 85%;
   text-align:right;
   bottom: 0px;
