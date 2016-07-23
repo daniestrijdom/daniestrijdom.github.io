@@ -17,3 +17,6 @@ $("#s").on("click", function() {
 $("#c").on("click", function() {
   $("#contact").slideToggle()
 })
+
+
+console.log("working?")
