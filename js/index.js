@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 $("#g").click(function() {
-  $("#general").slideDown("slow");
+  $("#general").slideToggle("slow");
 });
 
 $("#w").on("click", function() {
