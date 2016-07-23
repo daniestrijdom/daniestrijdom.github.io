@@ -9,17 +9,17 @@ $("#w").on("click", function() {
 });
 
 $("#e").on("click", function() {
-  $("#education").slideToggle();
+  $("#education").slideToggle("slow");
 });
 
 $("#s").on("click", function() {
-  $("#skillset").slideToggle();
+  $("#skillset").slideToggle("slow");
 });
 
 $("#c").on("click", function() {
-  $("#contact").slideToggle();
+  $("#contact").slideToggle("slow");
 });
 
 
-console.log("working?")
+console.log("Hey DOM perve....")
 });
