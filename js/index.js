@@ -1,4 +1,4 @@
-
+$(doument).ready(function() {
 $("#g").on("click", function() {
   $("#general").slideToggle()
 })
@@ -17,4 +17,5 @@ $("#s").on("click", function() {
 
 $("#c").on("click", function() {
   $("#contact").slideToggle()
+})
 })
